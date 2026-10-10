@@ -41,13 +41,12 @@ public static void main(String args[]) {
     System.out.println(!(12>= 12.9) || false && 4.0<=4.0 || 34>=2.7);
     System.out.println(!(12>= 12.9) || !false && 4.0<=4.0 || check);
     System.out.println("A" != "a"|| check && 5>6 && true ||  check != 2>4);
-    
+    System.out.println(true && false ||  45>56 ||check  && ! check );
     
 
 	
 	
 }
-	
 	
 
 }
